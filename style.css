@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+p, h1, h2{
+    font-family: "Noto Sans", sans-serif;
+}
+.foto{
+    display: block;
+    margin: 20px auto;
+    max-width: 40%;
+    height: auto;
+    border-radius: 20px 20px 20px 20px;
+
+}
+/* style.css */
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: "Noto Sans", sans-serif;
+}
+h1 {
+    color: rgb(0, 0, 0);
+}
+p {
+    color: #737976;
+    line-height: 1.6;
+}
+.destaque {
+    color: rgb(81, 129, 85);
+    font-weight: bold;
+}
